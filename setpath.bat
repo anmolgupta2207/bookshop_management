@@ -1,0 +1,1 @@
+set path="D:\javasoft\jdk1.4\bin"
